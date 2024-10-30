@@ -8,7 +8,7 @@ A website that offers fitness training services.
 * CSS
 
 ## Website
-https://joilinco.github.io/CBC2.Challenge.ResponsiveRunBuddy/
+https://joilinco.github.io/CBC2.ResponsiveRunBuddy/
 
 ## Contribution
 Made with ❤️ by JL
