@@ -682,14 +682,18 @@ section {
         grid-column: 1;
     }
 
+    .service-grid-item.premium {
+        grid-column: 2;
+    }
+
     .service-grid-item.both {
-        grid-column: 1/-1;
+        grid-column: 1 / -1;
     }
 
     .service-grid-item.cancel {
         transform: none;
         writing-mode: unset;
-        grid-column: 1/-1;
+        grid-column: 1 / -1;
         grid-row: -1;
     }
 
